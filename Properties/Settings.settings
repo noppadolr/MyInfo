@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyInfo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="sPort" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="sDb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dc14</Value>
+    </Setting>
+    <Setting Name="sUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="sPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="jHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="jPort" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">3333</Value>
+    </Setting>
+    <Setting Name="jDb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jhcisdb</Value>
+    </Setting>
+    <Setting Name="jUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="jPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="hHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mysql.chiangmaihealth.go.th</Value>
+    </Setting>
+    <Setting Name="hPort" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="hDb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hdc14</Value>
+    </Setting>
+    <Setting Name="hUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">amp14</Value>
+    </Setting>
+    <Setting Name="hPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pFjys2tH</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
